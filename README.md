@@ -21,7 +21,7 @@ This repository is meant to:
 - ✅ Python Basics & Syntax  
 - ✅ Variables, Input/Output, Operators  
 - ✅ Loops, Functions, Scope  
-- 🔄 Data Structures: List, Dict, Tuple, Set  
+- ✅ Data Structures: List, Dict, Tuple, Set  
 - 🔄 NumPy Basics  
 - 🔄 Pandas for Data Wrangling  
 - 🔄 Matplotlib / Seaborn for Data Viz  
