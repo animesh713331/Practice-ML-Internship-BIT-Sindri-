@@ -22,7 +22,7 @@ This repository is meant to:
 - ✅ Variables, Input/Output, Operators  
 - ✅ Loops, Functions, Scope  
 - ✅ Data Structures: List, Dict, Tuple, Set  
-- 🔄 NumPy Basics  
+- ✅ NumPy Basics  
 - 🔄 Pandas for Data Wrangling  
 - 🔄 Matplotlib / Seaborn for Data Viz  
 - 🔄 EDA (Exploratory Data Analysis)
