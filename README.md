@@ -23,9 +23,9 @@ This repository is meant to:
 - ✅ Loops, Functions, Scope  
 - ✅ Data Structures: List, Dict, Tuple, Set  
 - ✅ NumPy Basics  
-- 🔄 Pandas for Data Wrangling  
-- 🔄 Matplotlib / Seaborn for Data Viz  
-- 🔄 EDA (Exploratory Data Analysis)
+- ✅ Pandas for Data Wrangling  
+- ✅ Matplotlib / Seaborn for Data Viz  
+- ✅ EDA (Exploratory Data Analysis)
 
 > *Content updated regularly as I progress through the internship & self-study.*
 
