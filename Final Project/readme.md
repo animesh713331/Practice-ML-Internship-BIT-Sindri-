@@ -106,13 +106,6 @@ Tested multiple classification models:
 
 ---
 
-## 📄 Report & Files
-
-- 🔗 [Project Report PDF](./BIT%20Sindri%20Internship%20Report%201.pdf)
-- 📓 [Jupyter Notebook](./Cars.ipynb)
-
----
-
 ## ✅ Future Improvements
 
 - Incorporate features like `owner history`, `time on market`, or `location`
@@ -130,4 +123,5 @@ Government Engineering College Vaishali
 🔗 [GitHub Profile](https://github.com/animesh713331)
 
 ---
+
 
